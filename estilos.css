@@ -1,0 +1,21 @@
+body{
+	
+	
+	   background: lightgray;
+	   font-family: arial, helvetica, sans-serif;
+	}
+	
+	#container{
+		/*width: 70%;*/
+		margin: 0px auto;
+		width: 1100px;
+		border: 1px solid black;
+	}
+	
+	.article{
+	}
+	header{
+		background: red;
+		height: 100px;
+		width: 100%;
+	}
